@@ -4,7 +4,7 @@ metadata:
   creationTimestamp: null
   labels:
     app: my-other-app
-  name: my-other-app
+  name: other-app
 spec:
   replicas: 3
   selector:
